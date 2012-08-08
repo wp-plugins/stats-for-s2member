@@ -6,7 +6,7 @@ Requires at least: 3.0
 Tested up to: 3.4.1
 Stable tag: trunk
 
-This plugin adds some basic statistics for the S2Member Plugin showing how many member signups in the current month and details of member's expiring. 
+This plugin adds basic statistics to the S2Member Plugin showing how many member signups in the current month & details of member's expiring. 
 
 == Description ==
 
