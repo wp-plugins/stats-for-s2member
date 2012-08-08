@@ -10,9 +10,11 @@ This plugin adds basic statistics to the S2Member Plugin showing how many member
 
 == Description ==
 
-This is an add on for S2Member. Stats for S2Member adds a statistics to the WordPress Dashboard showing the number of members signed up to your WordPress site in the current month.
+This is an add on for S2Member. Stats for S2Member adds some basic statistics to the WordPress Dashboard showing the number of members signed up to your WordPress site in the current month.
 
 Additionally, a new menu item Stats for S2Member is added to the S2Member menu that add a full page showing the details of the members that have signed up in the current month as well as those with an expiry coming up.
+
+Here you can choose to filter the users in your site and view the actual accounts that are new and expiring.
 
 == Installation ==
 
